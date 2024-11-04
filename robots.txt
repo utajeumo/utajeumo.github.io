@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utajeumo.github.io/Vam/sitemap_index.txt
+Sitemap: https://utajeumo.github.io/gbM/sitemap_index.txt
+Sitemap: https://utajeumo.github.io/oSn/sitemap_index.txt
+Sitemap: https://utajeumo.github.io/vFn/sitemap_index.txt
